@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mihaidragosradu/burger.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mihaidragosradu/burger.git/static/js/main.d24cdd6a.chunk.js",
+    "main.js.map": "/mihaidragosradu/burger.git/static/js/main.d24cdd6a.chunk.js.map",
+    "runtime-main.js": "/mihaidragosradu/burger.git/static/js/runtime-main.a18b47c4.js",
+    "runtime-main.js.map": "/mihaidragosradu/burger.git/static/js/runtime-main.a18b47c4.js.map",
+    "static/js/2.133d4b1b.chunk.js": "/mihaidragosradu/burger.git/static/js/2.133d4b1b.chunk.js",
+    "static/js/2.133d4b1b.chunk.js.map": "/mihaidragosradu/burger.git/static/js/2.133d4b1b.chunk.js.map",
+    "index.html": "/mihaidragosradu/burger.git/index.html",
+    "precache-manifest.0921261333fcbc001a997ec44dc221c0.js": "/mihaidragosradu/burger.git/precache-manifest.0921261333fcbc001a997ec44dc221c0.js",
+    "service-worker.js": "/mihaidragosradu/burger.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mihaidragosradu/burger.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.133d4b1b.chunk.js.LICENSE.txt": "/mihaidragosradu/burger.git/static/js/2.133d4b1b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mihaidragosradu/burger.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18b47c4.js",
+    "static/js/2.133d4b1b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d24cdd6a.chunk.js"
+  ]
+}
