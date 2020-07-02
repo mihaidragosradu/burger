@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c332409b32705955d04e715d56639e1",
+    "revision": "b6f30644b3c3f6e5b8a515b5919dc938",
     "url": "/mihaidragosradu/burger.git/index.html"
   },
   {
-    "revision": "fddfbdfc94e64778968c",
+    "revision": "822c13ad3238b66c648e",
     "url": "/mihaidragosradu/burger.git/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mihaidragosradu/burger.git/static/js/2.2c94e264.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fddfbdfc94e64778968c",
-    "url": "/mihaidragosradu/burger.git/static/js/main.7aa7b9dc.chunk.js"
+    "revision": "822c13ad3238b66c648e",
+    "url": "/mihaidragosradu/burger.git/static/js/main.9715d583.chunk.js"
   },
   {
     "revision": "884711370634c3d3615c",

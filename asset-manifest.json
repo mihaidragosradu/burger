@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mihaidragosradu/burger.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mihaidragosradu/burger.git/static/js/main.7aa7b9dc.chunk.js",
-    "main.js.map": "/mihaidragosradu/burger.git/static/js/main.7aa7b9dc.chunk.js.map",
+    "main.js": "/mihaidragosradu/burger.git/static/js/main.9715d583.chunk.js",
+    "main.js.map": "/mihaidragosradu/burger.git/static/js/main.9715d583.chunk.js.map",
     "runtime-main.js": "/mihaidragosradu/burger.git/static/js/runtime-main.a18b47c4.js",
     "runtime-main.js.map": "/mihaidragosradu/burger.git/static/js/runtime-main.a18b47c4.js.map",
     "static/js/2.2c94e264.chunk.js": "/mihaidragosradu/burger.git/static/js/2.2c94e264.chunk.js",
     "static/js/2.2c94e264.chunk.js.map": "/mihaidragosradu/burger.git/static/js/2.2c94e264.chunk.js.map",
     "index.html": "/mihaidragosradu/burger.git/index.html",
-    "precache-manifest.e8b99e54aa2325345dc871331b4813ec.js": "/mihaidragosradu/burger.git/precache-manifest.e8b99e54aa2325345dc871331b4813ec.js",
+    "precache-manifest.f4f520b19a12a43ae7b5504305b8414a.js": "/mihaidragosradu/burger.git/precache-manifest.f4f520b19a12a43ae7b5504305b8414a.js",
     "service-worker.js": "/mihaidragosradu/burger.git/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/mihaidragosradu/burger.git/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2c94e264.chunk.js.LICENSE.txt": "/mihaidragosradu/burger.git/static/js/2.2c94e264.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a18b47c4.js",
     "static/js/2.2c94e264.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7aa7b9dc.chunk.js"
+    "static/js/main.9715d583.chunk.js"
   ]
 }
